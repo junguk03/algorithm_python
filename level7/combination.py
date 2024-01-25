@@ -12,6 +12,8 @@ def solution(sequence, k):
                 break
         if(sum1 == k):
             break
-    return arr
+    return 
 
 print(solution([1, 2, 3, 4, 5],7))
+
+
